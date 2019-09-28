@@ -188,7 +188,6 @@ Vue.component('product-tab', {
         return {
             tabs: ['Reviews', 'Make a review'],
             selectedTab: 'Reviews'
-            // @review-submitted="addReview"
         }
     }
 })
